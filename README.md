@@ -48,5 +48,5 @@ I'm passionate about video games and developing them. While **game development i
 
 * **⚙️ Git**
 
-* ---
+---
 ### Thanks for checking out my profile! Let's connect or collaborate.
