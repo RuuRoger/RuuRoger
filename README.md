@@ -1,7 +1,6 @@
 <div align="center">
-  ## 😊 Come on in! Take a peek at my GitHub.
-  
-  <img src="SatoruIwata.png" alt="Quote of Satoru Iwata" width="700">
+  <h1>😊 Come on in! Take a peek at my GitHub.</h1> 
+  <img src="SatoruIwata.png" alt="Quote of Satoru Iwata" width="400">
 </div>
 <!--
 **RuuRoger/RuuRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
