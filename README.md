@@ -1,16 +1,53 @@
-## Hi there 👋
-
+<div align="center">
+  ## 😊 Come on in! Take a peek at my GitHub.
+  
+  <img src="SatoruIwata.png" alt="Quote of Satoru Iwata" width="700">
+</div>
 <!--
 **RuuRoger/RuuRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+---
+
+### 🚀 About Me
+
+I'm passionate about video games and developing them. While **game development is my main specialization**, I'm actively training to become a **versatile developer**. My goal is to build a wide range of technologies, including websites, apps, IoT solutions, and more.
+
+---
+
+### 💻 Languages
+
+* **🟣 C#**
+* **🐍 Python**
+* **🌐 HTML**
+* **🎨 CSS**
+* **🗄️ SQL**
+* **📊 VBA**
+
+---
+
+### 🛠️ Tools
+
+#### 🎮 Game & Graphics Development
+
+* **🎮 Unity**
+* **🎨 Blender**
+* **✨ LibreSprite**
+
+#### 💻 IDEs & Development Environments
+
+* **🚀 Visual Studio**
+* **📝 VS Code**
+* **📊 Jupyter**
+
+#### 🗄️ Database & Data Visualization
+
+* **🐘 SQL Server**
+* **📈 Power BI**
+
+#### 🔗 Version Control
+
+* **⚙️ Git**
+
+* ---
+### Thanks for checking out my profile! Let's connect or collaborate.
