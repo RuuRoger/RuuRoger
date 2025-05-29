@@ -23,7 +23,7 @@ I'm passionate about video games and developing them. While **game development i
 * **🗄️ SQL**
 * **📊 VBA**
 
-![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuuRoger)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RuuRoger&layout=compact)
 
 ---
 
