@@ -8,9 +8,11 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About me
 
-I'm passionate about video games and developing them. While **game development is my main specialization**, I'm actively training to become a **versatile developer**. My goal is to build a wide range of technologies, including websites, apps, IoT solutions, and more.
+My favorite code editor is always with me, and in my pockets, I carry C# and Python, ready to draw and code any challenge.
+I'm passionate about software and video game development, specializing in Unity and .NET. I seek the perfect harmony between mechanics, design, and narrative, demonstrating that creativity stems from logic and good strategy—a lesson that my studies in mathematics reinforced.
+My experience in data analysis has taught me to think critically about business logic, creating solutions that are not only robust and optimized but also strategic and purposeful.
 
 ---
 
