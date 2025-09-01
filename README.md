@@ -10,11 +10,9 @@
 
 ### 🚀 About me
 
-My favorite code editor is always with me, and in my pockets, I carry C# and Python, ready to draw and code any challenge.
-
 I'm passionate about software and video game development, specializing in Unity and .NET. I seek the perfect harmony between mechanics, design, and narrative, demonstrating that creativity stems from logic and good strategy—a lesson that my studies in mathematics reinforced.
 
-My experience in data analysis has taught me to think critically about business logic, creating solutions that are not only robust and optimized but also strategic and purposeful.
+My experience in data analyst has taught me to think critically about business logic, creating solutions that are not only robust and optimized but also strategic and purposeful.
 
 ---
 
