@@ -35,7 +35,7 @@ My experience in data analyst has taught me to think critically about business l
 * **🎨 Blender**
 * **✨ LibreSprite**
 
-####🏗️ Frameworks
+#### 🏗️ Frameworks
 
 * **⚙️ .NET**
   * 🌐 ASP.NET Core
