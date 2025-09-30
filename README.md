@@ -45,7 +45,7 @@ My experience in data analyst has taught me to think critically about business l
   * 🖥️ WPF
 * **🟥 Laravel**
 * **♾️ Arduino**
-* * **🟢 Vue.js**
+* **🟢 Vue.js**
 * **⚛️ React**
 * **📘 Bootstrap**
 * **💨 Tailwind**
@@ -60,7 +60,7 @@ My experience in data analyst has taught me to think critically about business l
 
 * **🗄️ SQL Server**
 * **🐬 MYSQL**
-* **🐘 Posgre SQL
+* **🐘 Posgre SQL**
 * **📈 Power BI**
 
 #### 🔗 Version Control
