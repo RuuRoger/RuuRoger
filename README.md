@@ -18,18 +18,13 @@ My experience in data analyst has taught me to think critically about business l
 
 ### 💻 Languages
 
-* **🟣 C#**
-* **➕ C/C++**
-* **🎮 Verse**
-* **💡 HLSL**
-* **🐘 PHP**
-* **🟨 Javascript**
-* **🐍 Python**
-* **📐 XAML**
-* **🌐 HTML**
-* **🎨 CSS**
-* **🗄️ SQL**
-* **📊 VBA**
+| 🟣 | C# | ➕ | C/C++ |
+| 💡 | HLSL | 🎮 | Verse |
+| 🐘 | PHP | 🟨 | Javascript |
+| 📐 | XAML | 🌐 | HTML |
+| 🎨 | CSS | 🗄️ | SQL |
+| 🐍 | Python | 📊 | VBA |
+
 ---
 
 ### 🛠️ Tools
