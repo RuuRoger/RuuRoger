@@ -19,8 +19,13 @@ My experience in data analyst has taught me to think critically about business l
 ### 💻 Languages
 
 * **🟣 C#**
+* **➕ C/C++**
+* **🎮 Verse**
 * **💡 HLSL**
+* **🐘 PHP**
+* **🟨 Javascript**
 * **🐍 Python**
+* **📐 XAML
 * **🌐 HTML**
 * **🎨 CSS**
 * **🗄️ SQL**
@@ -32,6 +37,7 @@ My experience in data analyst has taught me to think critically about business l
 #### 🎮 Game & Graphics Development
 
 * **🎮 Unity**
+* **🎮 UEFN
 * **🎨 Blender**
 * **✨ LibreSprite**
 
@@ -41,6 +47,8 @@ My experience in data analyst has taught me to think critically about business l
   * 🌐 ASP.NET Core
   * 🗺️ MAUI
   * 🖥️ WPF
+  * 🟥 Laravel
+  * ♾️ Arduino
 
 #### 💻 IDEs & Development Environments
 
@@ -50,7 +58,9 @@ My experience in data analyst has taught me to think critically about business l
 
 #### 🗄️ Database & Data Visualization
 
-* **🐘 SQL Server**
+* **🗄️ SQL Server**
+* **🐬 MYSQL**
+* **🐘 Posgre SQL
 * **📈 Power BI**
 
 #### 🔗 Version Control
