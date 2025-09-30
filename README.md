@@ -17,7 +17,7 @@ My experience in data analyst has taught me to think critically about business l
 ---
 
 ### 💻 Languages
-
+| :---: | :--- | :---: | :--- |
 | 🟣 | C# | ➕ | C/C++ |
 | 💡 | HLSL | 🎮 | Verse |
 | 🐘 | PHP | 🟨 | Javascript |
