@@ -47,8 +47,8 @@ My experience in data analyst has taught me to think critically about business l
   * 🌐 ASP.NET Core
   * 🗺️ MAUI
   * 🖥️ WPF
-  * 🟥 Laravel
-  * ♾️ Arduino
+* **🟥 Laravel**
+* **♾️ Arduino**
 
 #### 💻 IDEs & Development Environments
 
