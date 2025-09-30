@@ -37,7 +37,7 @@ My experience in data analyst has taught me to think critically about business l
 #### 🎮 Game & Graphics Development
 
 * **🎮 Unity**
-* **🎮 UEFN
+* **🎮 UEFN**
 * **🎨 Blender**
 * **✨ LibreSprite**
 
