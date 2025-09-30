@@ -45,6 +45,10 @@ My experience in data analyst has taught me to think critically about business l
   * 🖥️ WPF
 * **🟥 Laravel**
 * **♾️ Arduino**
+* * **🟢 Vue.js**
+* **⚛️ React**
+* **📘 Bootstrap**
+* **💨 Tailwind**
 
 #### 💻 IDEs & Development Environments
 
