@@ -20,9 +20,8 @@ My experience in data analyst has taught me to think critically about business l
 |   |   |   |   |
 |:-:|:--|:-:|:--|
 | 🟣 | C#      | ➕ | C/C++    |
-| 💡 | HLSL    | 🎮 | Verse    |
-| 🐘 | PHP     | 🟨 | Javascript |
-| 📐 | XAML    | 🌐 | HTML     |
+| 💡 | HLSL    | 🐘 | PHP    |
+| 📐 | XAML     | 🌐 | HTML |
 | 🎨 | CSS     | 🗄️ | SQL      |
 | 🐍 | Python  | 📊 | VBA      |
 
@@ -33,7 +32,7 @@ My experience in data analyst has taught me to think critically about business l
 #### 🎮 Game & Graphics Development
 
 * **🎮 Unity**
-* **🎮 UEFN**
+* **🎮 Unreal Engine**
 * **🎨 Blender**
 * **✨ LibreSprite**
 
@@ -41,14 +40,8 @@ My experience in data analyst has taught me to think critically about business l
 
 * **⚙️ .NET**
   * 🌐 ASP.NET Core
-  * 🗺️ MAUI
   * 🖥️ WPF
-* **🟥 Laravel**
-* **♾️ Arduino**
-* **🟢 Vue.js**
-* **⚛️ React**
 * **📘 Bootstrap**
-* **💨 Tailwind**
 
 #### 💻 IDEs & Development Environments
 
@@ -60,12 +53,13 @@ My experience in data analyst has taught me to think critically about business l
 
 * **🗄️ SQL Server**
 * **🐬 MYSQL**
-* **🐘 Posgre SQL**
+* **🦭 Maria DB**
 * **📈 Power BI**
 
 #### 🔗 Version Control
 
 * **⚙️ Git**
+* **⚙️ Subversion**
 
 ---
 ### Thanks for checking out my profile! Let's connect or collaborate.
