@@ -52,6 +52,7 @@ My experience in data analyst has taught me to think critically about business l
 #### 🗄️ Database & Data Visualization
 
 * **🗄️ SQL Server**
+* **🪶 SQLite**
 * **🐬 MYSQL**
 * **🦭 Maria DB**
 * **📈 Power BI**
