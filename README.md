@@ -20,10 +20,10 @@ My experience in data analyst has taught me to think critically about business l
 |   |   |   |   |
 |:-:|:--|:-:|:--|
 | 🟣 | C#      | ➕ | C/C++    |
-| 💡 | HLSL    | 🐘 | PHP    |
-| 📐 | XAML     | 🌐 | HTML |
+| 💡 | HLSL    | ☕️ | Java    |
+| 🦫 | GO     | 🌐 | HTML |
 | 🎨 | CSS     | 🗄️ | SQL      |
-| 🐍 | Python  | 📊 | VBA      |
+| 🐍 | Python  | 🟠 | Javascript  |
 
 ---
 
