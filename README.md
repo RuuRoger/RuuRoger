@@ -10,9 +10,9 @@
 
 ### 🚀 About me
 
-I'm passionate about software and video game development, specializing in Unity and .NET. I seek the perfect harmony between mechanics, design, and narrative, demonstrating that creativity stems from logic and good strategy—a lesson that my studies in mathematics reinforced.
+Software Developer focused on Backend Engineering and Interactive Systems (Game Dev), specializing in the .NET ecosystem and Unity. My approach centers on technical control and efficiency, which has led me to dive deep into high-performance languages such as C++, Go, and Java.
 
-My experience in data analyst has taught me to think critically about business logic, creating solutions that are not only robust and optimized but also strategic and purposeful.
+I am a firm believer in multidisciplinary growth; I explore fields like Frontend, Cybersecurity, QA, and Microcontrollers not just out of curiosity, but to provide a comprehensive technical vision that ensures secure, testable, and optimized software from the ground up.
 
 ---
 
@@ -41,7 +41,6 @@ My experience in data analyst has taught me to think critically about business l
 * **⚙️ .NET**
   * 🌐 ASP.NET Core
   * 🖥️ WPF
-* **📘 Bootstrap**
 
 #### 💻 IDEs & Development Environments
 
@@ -53,8 +52,7 @@ My experience in data analyst has taught me to think critically about business l
 
 * **🗄️ SQL Server**
 * **🪶 SQLite**
-* **🐬 MYSQL**
-* **🦭 Maria DB**
+* **🐘 PostgreSQL**
 * **📈 Power BI**
 
 #### 🔗 Version Control
