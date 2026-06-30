@@ -32,8 +32,6 @@ I am a firm believer in multidisciplinary growth; I explore fields like Frontend
 #### 🎮 Game & Graphics Development
 
 * **🎮 Unity**
-* **🎮 Unreal Engine**
-* **🎨 Blender**
 * **✨ LibreSprite**
 
 #### 🏗️ Frameworks
@@ -41,6 +39,7 @@ I am a firm believer in multidisciplinary growth; I explore fields like Frontend
 * **⚙️ .NET**
   * 🌐 ASP.NET Core
   * 🖥️ WPF
+  * 👁️‍🗨️ NUnit
 
 #### 💻 IDEs & Development Environments
 
