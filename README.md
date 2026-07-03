@@ -42,6 +42,8 @@ Actualmente, para describir mi forma de trabajar, estos son los criterios técni
    - Repositorio
 
    - Mediador
+ 
+   - Máquina de estados (con DI)
 
    - s̶i̶n̶g̶l̶e̶t̶o̶n̶, (Soy de los que piensa que mejor no, incluso para videojuegos. Busco con lo que pretende resolver con DI)
 
