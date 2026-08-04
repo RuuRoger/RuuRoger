@@ -20,19 +20,17 @@ He podido trabajar con herramientas de moda como **Python** hasta herramientas m
 - **HLSL**: Me fascina.
 
 - **Python**: Valoro su poder para automatizaciones y scripting, aunque su estilo y filosofía de diseño se alejan de mi forma de entender y estructurar el software.
+  
+- **SQL**: La herramienta de todo buen backend. Prefiero diseñar modelos relacionales limpios y escribir consultas expresivas antes que delegarlo todo a capas de abstracción pesadas.
 
 ---
 
-Actualmente, para describir mi forma de trabajar, estos son los criterios técnicos que suelo asumir en mi día a día por el tipo de problemas que me enfrento hoy:
+Actualmente, para describir mi forma de trabajar, estos son los **criterios técnicos que suelo asumir en mi día a día** por el tipo de problemas que me enfrento hoy:
 
 **ARQUITECTURA**:
 <ul>
-  <li>MVC. Sí, en <b>Unity</b> también:</li>
-  <ul>
-    <li>ScripteableObjects como modelo</li>
-    <li>Vista como Monobehaviour</li>
-    <li>Controlador como C# "puro</li>
-  </ul>
+  <li>MVC</li>
+  <li>Orientado a componentes</li>
 </ul>
 
 **PATRONES DE DISEÑO**:
