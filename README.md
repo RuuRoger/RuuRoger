@@ -40,6 +40,8 @@ Actualmente, para describir mi forma de trabajar, estos son los **criterios téc
    - Repositorio
 
    - Mediador
+  
+   - Observer
  
    - Máquina de estados (con DI)
 
