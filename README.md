@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><i>Ingeniería con corazón. Videojuegos con ingeniería.</i></h1> 
+  <h1><i>Software Developer & Game Dev</i></h1> 
   <img src="SatoruIwata.png" alt="Quote of Satoru Iwata" width="350">
 </div>
 <!--
