@@ -69,11 +69,6 @@ Si has llegado hasta aquí, he pasado tus test unitarios y quieres pasar al de i
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <!-- Tarjeta de Estadísticas General -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RuuRoger&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuuRoger&layout=compact&theme=blood&hide_border=true" alt="Most Used Languages" />
+  <img src="https://metrics.leif.io/RuuRoger?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&config.timezone=Europe%2FMadrid" alt="GitHub Stats" width="45%" />
+  <img src="https://metrics.leif.io/RuuRoger/languages?template=classic&config.timezone=Europe%2FMadrid" alt="Most Used Languages" width="45%" />
 </p>
