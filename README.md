@@ -67,6 +67,6 @@ Sé que tengo una buena base, pero sigo formándome diariamente para conseguir c
 Si has llegado hasta aquí, he pasado tus test unitarios y quieres pasar al de integración, no dudes en contactarme ☺️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RuuRogerO&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=blood&hide_border=true" alt="Top Langs" />
 </p>
