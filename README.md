@@ -8,7 +8,6 @@
 
 ---
 
-**Software Developer y Game Dev**. 
 He podido trabajar con herramientas de moda como **Python** hasta herramientas más de nicho como **Verse** o **VBA**. Tengo una base sólida que me permite adaptarme a cualquier herramienta que se requiera, pero como preferencia personal, presento el stack con el que me siento más cómodo a día de hoy:
 
 - **Go**: Me siento más identificado con él por su filosofía manual, explícito y trabajar sin sobreingeniería . 
@@ -65,8 +64,3 @@ Me apasiona construir software, tanto en el trabajo como por hobby. Pese a que m
 Sé que tengo una buena base, pero sigo formándome diariamente para conseguir crecer mis habilidades y capacidades. **Tengo mucho código que picar, mucho código que revisar, muchos patrones y arquitecturas que aprender, pero también estoy orgulloso de lo que puedo construir hoy**.
 
 Si has llegado hasta aquí, he pasado tus test unitarios y quieres pasar al de integración, no dudes en contactarme ☺️
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuuRogerO&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=blood&hide_border=true" alt="Top Langs" />
-</p>
