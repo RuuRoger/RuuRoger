@@ -66,9 +66,6 @@ Sé que tengo una buena base, pero sigo formándome diariamente para conseguir c
 
 Si has llegado hasta aquí, he pasado tus test unitarios y quieres pasar al de integración, no dudes en contactarme ☺️
 
-<h3 align="center">GitHub Stats</h3>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=blood&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://metrics.leif.io/RuuRoger?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&config.timezone=Europe%2FMadrid" alt="GitHub Stats" width="45%" />
-  <img src="https://metrics.leif.io/RuuRoger/languages?template=classic&config.timezone=Europe%2FMadrid" alt="Most Used Languages" width="45%" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=blood&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
