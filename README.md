@@ -70,10 +70,10 @@ Si has llegado hasta aquí, he pasado tus test unitarios y quieres pasar al de i
 
 <p align="center">
   <!-- Tarjeta de Estadísticas General -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RuuRoger&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=blood&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuuRoger&layout=compact&theme=blood&hide_border=true" alt="Most Used Languages" />
 </p>
