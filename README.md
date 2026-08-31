@@ -65,3 +65,15 @@ Me apasiona construir software, tanto en el trabajo como por hobby. Pese a que m
 Sé que tengo una buena base, pero sigo formándome diariamente para conseguir crecer mis habilidades y capacidades. **Tengo mucho código que picar, mucho código que revisar, muchos patrones y arquitecturas que aprender, pero también estoy orgulloso de lo que puedo construir hoy**.
 
 Si has llegado hasta aquí, he pasado tus test unitarios y quieres pasar al de integración, no dudes en contactarme ☺️
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <!-- Tarjeta de Estadísticas General -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=blood&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=blood&hide_border=true" alt="Most Used Languages" />
+</p>
